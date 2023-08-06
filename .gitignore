@@ -1,0 +1,16 @@
+__pycache__/
+saved_model/
+results/
+result/
+data/
+.idea/
+.spyderproject/
+.spyproject/
+device_path.json
+configs/settings.json
+
+**/__pycache__/
+**/saved_model/
+**/.idea/
+**/.spyderproject/
+**/.spyproject/
