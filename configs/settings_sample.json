@@ -1,0 +1,10 @@
+{
+    "model": "BaseLine",
+    "debug_mode": true,
+    "load_feature": false,
+    "save_features": true,
+    "load_pretrained_model": false,
+    "num_fold": 1,
+    "test_size": 0.2
+}
+

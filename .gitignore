@@ -14,3 +14,7 @@ configs/settings.json
 **/.idea/
 **/.spyderproject/
 **/.spyproject/
+
+./results/
+./result/
+./data/
