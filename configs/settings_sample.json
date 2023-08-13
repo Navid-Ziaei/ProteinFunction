@@ -1,9 +1,12 @@
 {
     "model": "BaseLine",
+    "num_of_labels": 1500,
     "debug_mode": true,
     "load_feature": false,
     "save_features": true,
     "load_pretrained_model": false,
+    "batch_size": 5120,
+    "epochs": 5,
     "num_fold": 1,
     "test_size": 0.2
 }
